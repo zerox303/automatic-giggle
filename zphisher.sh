@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ##   Zphisher :Automated Phishing Tool
-##   Author 	:  zerox
-##   Version 	:  2.3.5
+##   Author : zerox
+##   Version : 2.3.5
 ##   Github :  https://github.com/zerox303/automatic-giggle
 
 
