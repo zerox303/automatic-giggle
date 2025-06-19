@@ -160,9 +160,6 @@ $ zphisher
 ##
 
 
-### *Thanks to all contributors*:
-
-
     
 
 <!-- // -->
