@@ -1,4 +1,4 @@
-<!-- Zphisher -->
+;<!-- Zphisher -->
 
 <p align="center">
   <img src=".github/misc/logo.png">
@@ -53,7 +53,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone https://github.com/zerox303/automatic-giggle
   ```
 
 - Now go to cloned directory and run `zphisher.sh` -
