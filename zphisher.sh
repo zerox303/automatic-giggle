@@ -3,7 +3,7 @@
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	zerox
 ##   Version 	: 	2.3.5
-##   Github 	 : https://github.com/zerox303/automatic-giggle
+##   Github 	 :https://github.com/zerox303/automatic-giggle
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
